@@ -22,3 +22,7 @@
     <img src="https://raw.githubusercontent.com/phfuark/phfuark/refs/heads/main/JAVA.png" alt="Java" style="width: 128px; height: 128px;">
   </div>
 
+  <img src="https://github-readme-stats.vercel.app/api?username={username}&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-pattalam&theme=dark" width="48%" >
+
