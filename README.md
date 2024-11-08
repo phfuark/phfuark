@@ -1,5 +1,5 @@
 <div>
-  <img src="https://github.com/phfuark/phfuark/blob/main/Banner.gif" alt="Banner" style="max-width: 100%; height: auto;">
+  <img src="https://github.com/phfuark/phfuark/blob/main/Banner.gif">
 </div>
 
 <div>
