@@ -2,29 +2,39 @@
   <img src="https://github.com/phfuark/phfuark/blob/main/Banner.gif" alt="Banner" style="max-width: 100%; height: auto;">
 </div>
 
-<div align="left";">
-</div>
-<div align="left" style="display:flex;">
-  
+<div>
+  <p>Linguagens:</p>
+  <img src="https://skillicons.dev/icons?i=py,html,css,js,java,cpp" />  
+</div> 
+
+<div>
+  <p>Ferramentas:</p>
+  <img src="https://skillicons.dev/icons?i=arduino,discord,git,github,gmail,idea,linkedin,notion,pycharm,vscode,windows" />  
+</div> 
+
+
+| <img src="https://skillicons.dev/icons?i=py">   | <img src="https://geps.dev/progress/32?dangerColor=8334eb&warningColor=8334eb&successColor=8334eb"> |
+|-------------------------------------------------|----------------------------------------------------------------------------------------------------:|
+| <img src="https://skillicons.dev/icons?i=html"> | <img src="https://geps.dev/progress/32?dangerColor=8334eb&warningColor=8334eb&successColor=8334eb"> |
+| <img src="https://skillicons.dev/icons?i=css">  | <img src="https://geps.dev/progress/32?dangerColor=8334eb&warningColor=8334eb&successColor=8334eb"> |
+| <img src="https://skillicons.dev/icons?i=js">   | <img src="https://geps.dev/progress/32?dangerColor=8334eb&warningColor=8334eb&successColor=8334eb"> |
+
+
   <div>
-    <img src="https://raw.githubusercontent.com/phfuark/phfuark/refs/heads/main/PYTHON.png" alt="Python" style="width: 128px; height: 128px; margin: 0 10px;">
     <img src="https://geps.dev/progress/32?dangerColor=8334eb&warningColor=8334eb&successColor=8334eb">
   </div>
 
   <div>
-    <img src="https://raw.githubusercontent.com/phfuark/phfuark/refs/heads/main/HTML5.png" alt="HTML5" style="width: 128px; height: 128px; margin: 0 10px;">
     <img src="https://geps.dev/progress/32?dangerColor=8334eb&warningColor=8334eb&successColor=8334eb">
   </div>
 
   <div>
-    <img src="https://raw.githubusercontent.com/phfuark/phfuark/refs/heads/main/CSS3.png" alt="CSS3" style="width: 128px; height: 128px; margin: 0 10px;">
     <img src="https://geps.dev/progress/32?dangerColor=8334eb&warningColor=8334eb&successColor=8334eb">  
   </div>
 
   <div>
-    <img src="https://raw.githubusercontent.com/phfuark/phfuark/refs/heads/main/JAVA.png" alt="Java" style="width: 128px; height: 128px; margin: 0 10px;">
     <img src="https://geps.dev/progress/32?dangerColor=8334eb&warningColor=8334eb&successColor=8334eb">
   </div>
 </div>
 
-<img src="https://skillicons.dev/icons?i=py,html,css,java" />
+
