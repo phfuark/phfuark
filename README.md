@@ -1,9 +1,9 @@
 ![Banner](https://github.com/phfuark/phfuark/blob/main/Banner.gif)
 
-![Python](https://img.shields.io/badge/Python-80%25-blue) 
-![JavaScript](https://img.shields.io/badge/JavaScript-70%25-yellow) 
-![C++](https://img.shields.io/badge/C%2B%2B-60%25-lightblue)
+![Python](https://img.icons8.com/ios/50/000000/python.png)  
+![HTML5](https://img.icons8.com/ios/50/000000/html-5.png)  
+![CSS3](https://img.icons8.com/ios/50/000000/css3.png)  
+![JavaScript](https://img.icons8.com/ios/50/000000/javascript.png)  
+![C++](https://img.icons8.com/ios/50/000000/c-plus-plus-logo.png)  
+![Java](https://img.icons8.com/ios/50/000000/java.png)
 
-### Outras linguagens:
-- ![Java](https://img.shields.io/badge/Java-50%25-orange)
-- ![Ruby](https://img.shields.io/badge/Ruby-30%25-red)
