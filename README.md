@@ -6,19 +6,11 @@
   <p>Linguagens:</p>
 </div> 
 
-<div align="left">
-  <ul style="list-style: none;">
-  <img src="https://skillicons.dev/icons?i=py"> 	   <img src="https://geps.dev/progress/30?dangerColor=8334eb&warningColor=8334eb&successColor=8334eb"> 	 
-  <img src="https://skillicons.dev/icons?i=js"> 	   <img src="https://geps.dev/progress/5?dangerColor=8334eb&warningColor=8334eb&successColor=8334eb"> 	 
-  <img src="https://skillicons.dev/icons?i=cpp"> 	   <img src="https://geps.dev/progress/40?dangerColor=8334eb&warningColor=8334eb&successColor=8334eb"> 	 
-  <img src="https://skillicons.dev/icons?i=java"> 	 <img src="https://geps.dev/progress/15?dangerColor=8334eb&warningColor=8334eb&successColor=8334eb"> 	
-  
-  
-  <ul style="list-style: none;">
-  <img src="https://skillicons.dev/icons?i=css"> 	   <img src="https://geps.dev/progress/35?dangerColor=8334eb&warningColor=8334eb&successColor=8334eb"> 	
-  <img src="https://skillicons.dev/icons?i=html"> 	 <img src="https://geps.dev/progress/50?dangerColor=8334eb&warningColor=8334eb&successColor=8334eb">
-  </ul>
-</div>
+| <img src="https://skillicons.dev/icons?i=py"> 	| <img src="https://geps.dev/progress/30?dangerColor=8334eb&warningColor=8334eb&successColor=8334eb"> 	| <img src="https://skillicons.dev/icons?i=js"> 	| <img src="https://geps.dev/progress/5?dangerColor=8334eb&warningColor=8334eb&successColor=8334eb"> 	| <img src="https://skillicons.dev/icons?i=cpp"> 	| <img src="https://geps.dev/progress/40?dangerColor=8334eb&warningColor=8334eb&successColor=8334eb"> 	| <img src="https://skillicons.dev/icons?i=java"> 	| <img src="https://geps.dev/progress/15?dangerColor=8334eb&warningColor=8334eb&successColor=8334eb"> 	|
+|---	|---	|:---:	|:---:	|---:	|---:	|---	|---	|
+
+| <img src="https://skillicons.dev/icons?i=html"> 	| <img src="https://geps.dev/progress/50?dangerColor=8334eb&warningColor=8334eb&successColor=8334eb"> 	| <img src="https://skillicons.dev/icons?i=css"> 	| <img src="https://geps.dev/progress/35?dangerColor=8334eb&warningColor=8334eb&successColor=8334eb"> 	|
+|---	|---	|:---:	|:---:	|
 
 <div>
   <p>Ferramentas:</p>
