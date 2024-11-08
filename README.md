@@ -5,5 +5,5 @@
 ![CSS3](https://img.icons8.com/ios/50/000000/css3.png)  
 ![JavaScript](https://img.icons8.com/ios/50/000000/javascript.png)  
 ![C++](https://img.icons8.com/ios/50/000000/c-plus-plus-logo.png)  
-![Java](https://img.icons8.com/ios/50/000000/java.png)
+
 
