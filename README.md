@@ -1,5 +1,5 @@
-<div>
-  <img src="https://github.com/phfuark/phfuark/blob/main/Banner.gif">
+<div align="center">
+  <img src="https://github.com/phfuark/phfuark/blob/main/Banner1.gif">
 </div>
 
 <div>
