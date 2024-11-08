@@ -19,22 +19,6 @@
 | <img src="https://skillicons.dev/icons?i=css">  | <img src="https://geps.dev/progress/32?dangerColor=8334eb&warningColor=8334eb&successColor=8334eb"> |
 | <img src="https://skillicons.dev/icons?i=js">   | <img src="https://geps.dev/progress/32?dangerColor=8334eb&warningColor=8334eb&successColor=8334eb"> |
 
-
-  <div>
-    <img src="https://geps.dev/progress/32?dangerColor=8334eb&warningColor=8334eb&successColor=8334eb">
-  </div>
-
-  <div>
-    <img src="https://geps.dev/progress/32?dangerColor=8334eb&warningColor=8334eb&successColor=8334eb">
-  </div>
-
-  <div>
-    <img src="https://geps.dev/progress/32?dangerColor=8334eb&warningColor=8334eb&successColor=8334eb">  
-  </div>
-
-  <div>
-    <img src="https://geps.dev/progress/32?dangerColor=8334eb&warningColor=8334eb&successColor=8334eb">
-  </div>
 </div>
 
 
