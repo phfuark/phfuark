@@ -1,9 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D16BF4&height=120&section=header" />
 
-[![TypingSVG](https://readme-typing-svg.herokuapp.com/?color=D692EE&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Paulo;I'm+17+years+old;I'm+from+Brazil;And+i+like+BackEnd+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![TypingSVG](https://readme-typing-svg.herokuapp.com/?color=D692EE&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Paulo;I'm+17+years+old;I+like+BackEnd+development;Be+Welcome!)](https://git.io/typing-svg)
 
 <div align="center">
-  <img src="https://github.com/phfuark/phfuark/blob/main/Banner1.gif">
+  <img width=40% src="https://github.com/phfuark/phfuark/blob/main/Banner1.gif">
 </div>
 
 <div align="center">
