@@ -7,10 +7,10 @@
 </div>
 
 <div>
-    <img align="left" width="40%" height="195px"
-        src="https://github-readme-stats.vercel.app/api?username=phfuark&show_icons=true&count_private=true&hide_border=true&title_color=D692EE&icon_color=D692EE&text_color=c9d1d9&bg_color=0d1117"
+    <img align="left" width="40%" height="100%"
+        src="https://github-readme-stats.vercel.app/api?username=phfuark&theme=midnight-purple&show_icons=true"
         alt="Paulo Henrique github stats" />
-    <img align="right" width="40%" height="195px"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=phfuark&layout=compact&hide_border=true&title_color=D692EE&text_color=ffffff&bg_color=0d1117"
-        alt="Paulo Henrique github stats"/>
+    <img align="right" height="165px"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=phfuark&layout=compact&theme=midnight-purple"
+        alt="Paulo Henrique github stats" />
 </div>
