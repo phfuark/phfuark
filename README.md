@@ -7,13 +7,13 @@
 </div>
 
 <div>
-    <img align="left" height="162px"
+    <img align="left" width="33%"
         src="https://github-readme-stats.vercel.app/api?username=phfuark&theme=midnight-purple&show_icons=true"
         alt="Paulo Henrique github stats" />
-    <img align="right" height="162px"
+    <img align="right" width="33%"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=phfuark&layout=compact&theme=midnight-purple"
         alt="Paulo Henrique github stats" />
-    <img align="center" height="162px"
+    <img align="center" width="33%"
         src="https://streak-stats.demolab.com?user=phfuark&theme=midnight-purple&card_width=300&card_height=170&hide_longest_streak=true"
         alt="Paulo Henrique github stats" />
 
