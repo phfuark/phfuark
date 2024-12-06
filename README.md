@@ -7,15 +7,16 @@
 </div>
 
 <div>
-    <img align="left" heigth="120px"
+    <img align="left" heigth="80px"
         src="https://github-readme-stats.vercel.app/api?username=phfuark&theme=midnight-purple&show_icons=true"
         alt="Paulo Henrique github stats" />
-    <img align="right" heigth="120px"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=phfuark&layout=compact&theme=midnight-purple"
-        alt="Paulo Henrique github stats" />
-    <img align="center" heigth="120px"
+  <img align="center" heigth="80px"
         src="https://streak-stats.demolab.com?user=phfuark&theme=midnight-purple&card_width=300&card_height=170&hide_longest_streak=true"
         alt="Paulo Henrique github stats" />
+    <img align="right" heigth="80px"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=phfuark&layout=compact&theme=midnight-purple"
+        alt="Paulo Henrique github stats" />
+    
 
 
   
