@@ -7,7 +7,7 @@
 </div>
 
 <div>
-    <img align="left" width="40%" height="100%"
+    <img align="left" height="170px"
         src="https://github-readme-stats.vercel.app/api?username=phfuark&theme=midnight-purple&show_icons=true"
         alt="Paulo Henrique github stats" />
     <img align="right" height="170px"
