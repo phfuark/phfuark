@@ -44,7 +44,7 @@
     </a>
     <a href="https://github.com/phfuark/Front_Consuming_API">
         <img align="right" width="46%"
-                src="https://github-readme-stats.vercel.app/api/pin/?username=phfuark&repo=FrontEnd_Consuming_API&theme=midnight-purple"
+                src="https://github-readme-stats.vercel.app/api/pin/?username=phfuark&repo=Front-End_Consuming_API&theme=midnight-purple"
                 alt="Paulo Henrique github stats" />
         </a>
 </div>
