@@ -5,10 +5,10 @@
 
 <div align="center">
   <div align="left">
-    <img height=25% src="https://github.com/phfuark/phfuark/blob/main/Banner1.gif">
+    <img width=25% src="https://github.com/phfuark/phfuark/blob/main/Banner1.gif">
   </div>
   <div align="right">
-    <img height=25% src="https://github.com/phfuark/phfuark/blob/main/haunter.gif">
+    <img width=25% src="https://github.com/phfuark/phfuark/blob/main/haunter.gif">
   </div>
 </div>
 
