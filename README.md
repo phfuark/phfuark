@@ -2,10 +2,15 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/?color=D692EE&size=30&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Paulo;I'm+17+years+old;I+like+BackEnd+development;Welcome+to+my+profile!">
 
-<div align="center">
-  <img width=35% src="https://github.com/phfuark/phfuark/blob/main/Banner1.gif">
-</div>
 
+<div align="center">
+  <div align="left">
+    <img height=25% src="https://github.com/phfuark/phfuark/blob/main/Banner1.gif">
+  </div>
+  <div align="right">
+    <img height=25% src="https://github.com/phfuark/phfuark/blob/main/haunter.gif">
+  </div>
+</div>
 
 ## 📊 &nbsp;Stats
 
