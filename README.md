@@ -4,12 +4,8 @@
 
 
 <div align="center">
-  <div align="left">
-    <img width=25% src="https://github.com/phfuark/phfuark/blob/main/Banner1.gif">
-  </div>
-  <div align="right">
-    <img width=25% src="https://github.com/phfuark/phfuark/blob/main/haunter.gif">
-  </div>
+    <img align="left" width=25% src="https://github.com/phfuark/phfuark/blob/main/Banner1.gif">
+    <img align="right" width=25% src="https://github.com/phfuark/phfuark/blob/main/haunter.gif">
 </div>
 
 ## 📊 &nbsp;Stats
