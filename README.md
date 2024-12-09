@@ -38,12 +38,12 @@
 
 <div>
     <a href="https://github.com/phfuark/AlphaCO_AdvancedEcommerce">
-        <img align="left" height="150px"
+        <img align="left" height="120px"
             src="https://github-readme-stats.vercel.app/api/pin/?username=phfuark&repo=Alpha-CO_AdvancedEcommerce&theme=midnight-purple"
             alt="Paulo Henrique github stats" />
     </a>
     <a href="https://github.com/phfuark/Front_Consuming_API">
-        <img align="right" height="150px"
+        <img align="right" height="120px"
                 src="https://github-readme-stats.vercel.app/api/pin/?username=phfuark&repo=Front-End_Consuming_API&theme=midnight-purple"
                 alt="Paulo Henrique github stats" />
         </a>
