@@ -13,7 +13,7 @@
     <img align="left" height="134px"
         src="https://github-readme-stats.vercel.app/api?username=phfuark&theme=midnight-purple&show_icons=true"
         alt="Paulo Henrique github stats" />
-    <img align="center" height="134px"
+    <img align="center" height="135px"
         src="https://streak-stats.demolab.com?user=phfuark&theme=midnight-purple&card_width=300&card_height=170&hide_longest_streak=true"
         alt="Paulo Henrique github stats" />
     <img align="right" height="134px"
