@@ -37,10 +37,10 @@
 ## 🗃️ &nbsp;Top Repositories
 
 <div>
-    <img align="left" width="48%"
+    <img align="left" width="45%"
         src="https://github-readme-stats.vercel.app/api/pin/?username=phfuark&repo=AlphaCO_AdvancedEcommerce&theme=midnight-purple"
         alt="Paulo Henrique github stats" />
-<img align="right" width="48%"
+<img align="right" width="45%"
         src="https://github-readme-stats.vercel.app/api/pin/?username=phfuark&repo=Front_Consuming_API&theme=midnight-purple"
         alt="Paulo Henrique github stats" />
 </div>
