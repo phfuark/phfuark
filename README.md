@@ -37,11 +37,15 @@
 ## 🗃️ &nbsp;Top Repositories
 
 <div>
-    <img align="left" width="45%"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=phfuark&repo=AlphaCO_AdvancedEcommerce&theme=midnight-purple"
-        alt="Paulo Henrique github stats" />
-<img align="right" width="45%"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=phfuark&repo=Front_Consuming_API&theme=midnight-purple"
-        alt="Paulo Henrique github stats" />
+    <a href="https://github.com/phfuark/AlphaCO_AdvancedEcommerce">
+        <img align="left" width="45%"
+            src="https://github-readme-stats.vercel.app/api/pin/?username=phfuark&repo=AlphaCO_AdvancedEcommerce&theme=midnight-purple"
+            alt="Paulo Henrique github stats" />
+    </a>
+    <a href="https://github.com/phfuark/Front_Consuming_API">
+        <img align="right" width="45%"
+                src="https://github-readme-stats.vercel.app/api/pin/?username=phfuark&repo=Front_Consuming_API&theme=midnight-purple"
+                alt="Paulo Henrique github stats" />
+        </a>
 </div>
 
