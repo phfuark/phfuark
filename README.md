@@ -33,3 +33,15 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </p>
 </div>
+
+## 🗃️ &nbsp;Top Repositories
+
+<div>
+    <img align="left" width="48%"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=phfuark&repo=AlphaCO_AdvancedEcommerce&theme=midnight-purple"
+        alt="Paulo Henrique github stats" />
+<img align="right" width="48%"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=phfuark&repo=Front_Consuming_API&theme=midnight-purple"
+        alt="Paulo Henrique github stats" />
+</div>
+
