@@ -34,6 +34,10 @@
   </p>
 </div>
 
+## 👁️‍🗨️ &nbsp;Views
+<img src="https://komarev.com/ghpvc/?username=phfuark&color=7700B8" />
+
+
 ## 🗃️ &nbsp;Top Repositories
 
 <div>
@@ -47,7 +51,11 @@
                 src="https://github-readme-stats.vercel.app/api/pin/?username=phfuark&repo=Front-End_Consuming_API&theme=midnight-purple"
                 alt="Paulo Henrique github stats" />
         </a>
+    
 </div>
+
+
+
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7700B8&height=100&section=footer"/>
