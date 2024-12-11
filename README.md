@@ -20,7 +20,7 @@
 
 ## 🧰 &nbsp;Tools
   <p align="left"> 
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,cpp,figma,git,github,gmail,idea,java,linux,windows,mongodb,npm,notion,pycharm,ubuntu,arduino,gmail"
+    <img src="https://skillicons.dev/icons?i=html,css,js,cpp,java,mongodb,bootstrap,figma,git,github,gmail,idea,vscode,pycharm,arduino,npm,notion,ubuntu,linux,windows"
   </p>
 
 ## 👁️‍🗨️ &nbsp;Views
