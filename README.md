@@ -46,7 +46,7 @@
 
 ## 🔥 &nbsp;Streak Stats
 <div align="center">
-    <img width="60%"
+    <img width="100%"
             src="https://streak-stats.demolab.com/?user=phfuark&theme=midnight-purple&hide_longest_streak=true"
             alt="Paulo Henrique github stats" />
 </div>
