@@ -40,17 +40,6 @@
                 src="https://github-readme-stats.vercel.app/api/pin/?username=phfuark&repo=Front-End_Consuming_API&theme=midnight-purple"
                 alt="Paulo Henrique github stats" />
     </a>
-    <a href="https://github.com/phfuark/Login_Users.py">
-        <img align="left" height="130px"
-            src="https://github-readme-stats.vercel.app/api/pin/?username=phfuark&repo=Login_Users.py&theme=midnight-purple"
-            alt="Paulo Henrique github stats" />
-    </a>
-    <a href="https://github.com/phfuark/Java_W3School">
-        <img align="right" height="130px"
-                src="https://github-readme-stats.vercel.app/api/pin/?username=phfuark&repo=Java_W3School&theme=midnight-purple"
-                alt="Paulo Henrique github stats" />
-    </a>
-    
 </div>
 
 
