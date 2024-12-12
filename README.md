@@ -19,8 +19,8 @@
 
 
 ## 🧰 &nbsp;Tools
-  <p align="left"> 
-    <img src="https://skillicons.dev/icons?i=html,css,js,cpp,java,mongodb,bootstrap,figma,git,github,gmail,idea,vscode,pycharm,arduino,npm,notion,ubuntu,linux,windows"
+  <p align="center"> 
+    <img src="https://skillicons.dev/icons?i=html,css,js,cpp,java,mongodb,bootstrap,figma,git,github,gmail,idea,vscode,pycharm,arduino,npm,notion,ubuntu,linux,windows&perline=10"
   </p>
 
 ## 👁️‍🗨️ &nbsp;Views
