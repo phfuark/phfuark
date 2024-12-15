@@ -23,10 +23,6 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,cpp,java,mongodb,bootstrap,figma,git,github,gmail,idea,vscode,pycharm,arduino,npm,notion,ubuntu,linux,windows"
   </p>
 
-## 👁️‍🗨️ &nbsp;Views
-<img src="https://komarev.com/ghpvc/?username=phfuark&color=7700B8" />
-
-
 ## 🗃️ &nbsp;Top Repositories
 
 <div>
