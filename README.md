@@ -9,10 +9,10 @@
 
 ## 📊 &nbsp;Stats
 <div>
-    <img align="left" height="190px"
+    <img align="left" height="180px"
         src="http://github-readme-stats.vercel.app/api?username=phfuark&theme=midnight-purple&show_icons=true"
         alt="Paulo Henrique github stats" />
-    <img align="right" height="190px"
+    <img align="right" height="180px"
         src="http://github-readme-stats.vercel.app/api/top-langs/?username=phfuark&layout=compact&theme=midnight-purple"
         alt="Paulo Henrique github stats" />
 </div>
