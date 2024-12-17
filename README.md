@@ -38,7 +38,7 @@
 </div>
 
 ## 👁️‍🗨️ &nbsp;Views
-<img src="https://visitcount.itsvg.in/api?id=phfuark&icon=0&color=7700B8">
+<img src="https://visitcount.itsvg.in/api?id=phfuark&icon=5&color=11">
 
 
 
