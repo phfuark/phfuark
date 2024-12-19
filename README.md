@@ -6,7 +6,6 @@
     <img align="center" width=60% src="https://github.com/phfuark/phfuark/blob/main/ghost.gif">
 </div>
 
-
 ## 📊 &nbsp;Stats
 <div>
     <img align="left" height="190px"
@@ -16,11 +15,6 @@
         src="http://github-readme-stats.vercel.app/api/top-langs/?username=phfuark&layout=compact&theme=midnight-purple"
         alt="Paulo Henrique github stats" />
 </div>
-
-## 🧰 &nbsp;Tools
-  <p align="left"> 
-    <img src="https://skillicons.dev/icons?i=html,css,js,cpp,java,mongodb,bootstrap,figma,git,github,gmail,idea,vscode,pycharm,arduino,npm,notion,ubuntu,linux,windows"
-  </p>
 
 ## 🗃️ &nbsp;Top Repositories
 
@@ -36,6 +30,11 @@
                 alt="Paulo Henrique github stats" />
     </a>
 </div>
+
+## 🧰 &nbsp;Tools
+  <p align="left"> 
+    <img src="https://skillicons.dev/icons?i=html,css,js,cpp,java,mongodb,bootstrap,figma,git,github,gmail,idea,vscode,pycharm,arduino,npm,notion,ubuntu,linux,windows"
+  </p>
 
 ## 👁️‍🗨️ &nbsp;Views
 <img src="https://visitcount.itsvg.in/api?id=phfuark&icon=5&color=11">
