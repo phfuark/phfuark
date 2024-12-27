@@ -16,7 +16,7 @@
         alt="Paulo Henrique github stats" />
 </div>
 
-## 🗃️ &nbsp;Top Repositories
+<!--## 🗃️ &nbsp;Top Repositories
 
 <div>
     <a href="https://github.com/phfuark/AlphaCO_AdvancedEcommerce">
@@ -29,7 +29,16 @@
                 src="https://github-readme-stats.vercel.app/api/pin/?username=phfuark&repo=Front-End_Consuming_API&theme=midnight-purple"
                 alt="Paulo Henrique github stats" />
     </a>
+</div>-->
+
+## 🔥 &nbsp;Streaks
+<div>
+    <img align="left" width="100%"
+        src="https://streak-stats.demolab.com/?user=phfuark&theme=midnight-purple&show_icons=true"
+        alt="Paulo Henrique github stats" />
 </div>
+
+
 
 ## 🧰 &nbsp;Tools
   <p align="left"> 
