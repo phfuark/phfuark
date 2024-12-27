@@ -16,6 +16,14 @@
         alt="Paulo Henrique github stats" />
 </div>
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 <!--## 🗃️ &nbsp;Top Repositories
 
