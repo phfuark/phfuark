@@ -15,6 +15,7 @@
         src="http://github-readme-stats.vercel.app/api/top-langs/?username=phfuark&layout=compact&theme=midnight-purple"
         alt="Paulo Henrique github stats" />
 </div>
+<br/>
 
 <!--## 🗃️ &nbsp;Top Repositories
 
