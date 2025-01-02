@@ -45,8 +45,8 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,cpp,java,mongodb,bootstrap,figma,git,github,gmail,idea,vscode,pycharm,arduino,npm,notion,ubuntu,linux,windows"
   </p>
 
-<!--## 👁️‍🗨️ &nbsp;Views
-<img src="https://visitcount.itsvg.in/api?id=phfuark&icon=5&color=11">-->
+<## 👁️‍🗨️ &nbsp;Views
+<img src="https://visitcount.itsvg.in/api?id=phfuark&icon=5&color=11">
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7700B8&height=100&section=footer"/>
