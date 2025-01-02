@@ -45,7 +45,7 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,cpp,java,mongodb,bootstrap,figma,git,github,gmail,idea,vscode,pycharm,arduino,npm,notion,ubuntu,linux,windows"
   </p>
 
-<## 👁️‍🗨️ &nbsp;Views
+## 👁️‍🗨️ &nbsp;Views
 <img src="https://visitcount.itsvg.in/api?id=phfuark&icon=5&color=11">
 
 
