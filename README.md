@@ -12,7 +12,7 @@
         src="https://streak-stats.demolab.com/?user=phfuark&theme=dark"
         alt="Paulo Henrique github stats" />
     <img align="right" height="185px"
-        src="http://github-readme-stats.vercel.app/api/top-langs/?username=phfuark&layout=compact&theme=dark
+        src="http://github-readme-stats.vercel.app/api/top-langs/?username=phfuark&layout=compact&theme=dark"
         alt="Paulo Henrique github stats" />
 </div>
 <br/>
