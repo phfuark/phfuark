@@ -9,10 +9,10 @@
 ## 📊 &nbsp;Stats
 <div>
     <img align="left" height="185px"
-        src="https://streak-stats.demolab.com/?user=phfuark&theme=dark"
+        src="https://streak-stats.demolab.com/?user=phfuark"
         alt="Paulo Henrique github stats" />
     <img align="right" height="185px"
-        src="http://github-readme-stats.vercel.app/api/top-langs/?username=phfuark&layout=compact&theme=dark"
+        src="http://github-readme-stats.vercel.app/api/top-langs/?username=phfuark&layout=compact"
         alt="Paulo Henrique github stats" />
 </div>
 <br/>
