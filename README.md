@@ -9,7 +9,7 @@
 ## 📊 &nbsp;Stats
 <div>
     <img align="left" height="185px"
-        src="https://github-readme-streak-stats.herokuapp.com?user=phfuark&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D"
+        src="https://github-readme-streak-stats.herokuapp.com?user=phfuark&theme=midnight-purple"
         alt="Paulo Henrique github stats" />
     <img align="right" height="185px"
         src="http://github-readme-stats.vercel.app/api/top-langs/?username=phfuark&layout=compact&theme=midnight-purple"
