@@ -49,7 +49,7 @@
 
 ## 🧰 &nbsp;Tools
   <p align="left"> 
-    <img src="https://skillicons.dev/icons?i=html,css,js,cpp,java,mongodb,bootstrap,figma,git,github,gmail,idea,vscode,pycharm,arduino,npm,notion,ubuntu,linux,windows"
+    <img src="https://skillicons.dev/icons?i=cpp,java,mongodb,spring,bootstrap,figma,git,github,gmail,idea,vscode,pycharm,arduino,npm,notion,ubuntu,linux,windows,py,django,sqlite,react,vite,tailwind,html,css,js"
   </p>
 
 <!--## 👁️‍🗨️ &nbsp;Views
